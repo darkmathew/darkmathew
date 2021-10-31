@@ -1,7 +1,7 @@
 ### [EN] Hi, I'm Matheus. | [PT/BR] Olá, eu sou o Matheus. 👋
-- 🔭 [PT/BR] Hoje trabalho/estudo com desenvolvimento back-end com Python e JavaScript.
+- 🔭 [PT/BR] Hoje trabalho/estudo com desenvolvimento back-end utilizando Python e JavaScript.
 - 🌱 [PT/BR] Estou estudando tecnologias para front-end.
-- 🔭 [EN] Today I work/study with back-end development with Python and JavaScript.
+- 🔭 [EN] Today I work/study with back-end development using Python and JavaScript.
 - 🌱 [EN] I'm studying front-end technologies.
 
 <div align="center">
