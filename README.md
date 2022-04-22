@@ -1,5 +1,5 @@
 ### [EN] Hi, I'm Matheus. | [PT/BR] Olá, eu sou o Matheus. 👋
-🐇 I create technological solutions such as websites, bots, cash and stock management software for companies, among other "bad things". I've been walking these waters for over 2 years professionally.
+🐇 I create technological solutions such as websites, bots, API's, cash and stock management software for companies, among other "cositas más". I've been walking these waters for over 2 years professionally.
 
 📑 I'm currently studying at the College of Digital Games, where I have contact with game development using C#, Lua, Python and other languages. Not to mention 3D modeling engines and tools like Blender.
 
