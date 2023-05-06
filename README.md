@@ -18,12 +18,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="DarkMathew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DarkMathew-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DarkMathew-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="DarkMathew-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
   <img align="center" alt="DarkMathew-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"> 
-  <img align="center" alt="DarkMathew-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"> 
-  <img align="center" alt="DarkMathew-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="DarkMathew-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">   
   <img align="center" alt="DarkMathew-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="DarkMathew-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="DarkMathew-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
 </div>
   
   
