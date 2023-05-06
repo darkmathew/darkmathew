@@ -1,7 +1,17 @@
 ### [EN] Hi, I'm Matheus. | [PT/BR] Olá, eu sou o Matheus. 👋
-🐇 I create technological solutions such as websites, bots, API's, cash and stock management software for companies, among other "cositas más". I've been walking these waters for over 2 years professionally.
+🕹️ In addition to my experience in web and software development, I also have experience developing games in Unity. With Unity, I have created games that range from simple 2D games to complex 3D games.
 
-📑 I'm currently studying at the College of Digital Games, where I have contact with game development using C#, Lua, Python and other languages. Not to mention 3D modeling engines and tools like Blender.
+🤝 I have also integrated Arduino into my Unity games, allowing for communication between the game and physical devices. This integration has allowed me to create unique and immersive gaming experiences that go beyond what is typically possible with traditional games.
+
+🤖 My experience with Cheat Engine has allowed me to understand how memory works in computer systems and how to manipulate it to achieve desired results. With C++, I have developed software for a variety of applications, including games and data management systems.
+
+📱 Additionally, my knowledge of Flutter has given me the ability to create simple mobile applications. As I continue to learn and develop my skills, I am excited to explore more opportunities in the field of technology and continue creating innovative solutions for various industries.
+
+🎓 Currently, I am studying at the College of Digital Games, where I have been exposed to various programming languages, including C#, Lua, and Python. I have also gained experience working with 3D modeling engines and tools like Blender.
+
+🔗 By combining my knowledge of programming languages like C#, Lua, and Python with my experience in game development and hardware integration, I have been able to create innovative solutions that bridge the gap between technology and entertainment.
+
+📚 As a lifelong learner, I am always seeking to expand my knowledge and skills in technology and game development. I believe that by constantly pushing the boundaries of what is possible, I can continue to create impactful and meaningful solutions for a variety of industries and applications.
 
 🌍 Eventually I can make public a sample of what I produce privately for commercial use.
 
@@ -9,6 +19,11 @@
   <img align="center" alt="DarkMathew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DarkMathew-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="DarkMathew-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
+  <img align="center" alt="DarkMathew-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"> 
+  <img align="center" alt="DarkMathew-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"> 
+  <img align="center" alt="DarkMathew-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="DarkMathew-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="DarkMathew-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
 </div>
   
   
