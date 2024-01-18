@@ -5,8 +5,6 @@
 
 🤖 My experience with Cheat Engine has allowed me to understand how memory works in computer systems and how to manipulate it to achieve desired results. With C++, I have developed software for a variety of applications, including games and data management systems.
 
-📱 Additionally, my knowledge of Flutter has given me the ability to create simple mobile applications. As I continue to learn and develop my skills, I am excited to explore more opportunities in the field of technology and continue creating innovative solutions for various industries.
-
 🎓 Currently, I am studying at the College of Digital Games, where I have been exposed to various programming languages, including C#, Lua, and Python. I have also gained experience working with 3D modeling engines and tools like Blender.
 
 🔗 By combining my knowledge of programming languages like C#, Lua, and Python with my experience in game development and hardware integration, I have been able to create innovative solutions that bridge the gap between technology and entertainment.
