@@ -25,6 +25,6 @@
   <img align="center" alt="DarkMathew-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
 </div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkmathew)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmathew&hide_progress=true)
   
 ![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)  
