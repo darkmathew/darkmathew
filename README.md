@@ -1,28 +1,40 @@
 ### [EN] Hi, I'm Matheus. | [PT/BR] Olá, eu sou o Matheus. 👋
-🕹️ In addition to my experience in web and software development, I also have experience developing games in Unity. With Unity, I have created games that range from simple 2D games to complex 3D games.
 
-🤝 I have also integrated Arduino into my Unity games, allowing for communication between the game and physical devices. This integration has allowed me to create unique and immersive gaming experiences that go beyond what is typically possible with traditional games.
+---
 
-🤖 My experience with Cheat Engine has allowed me to understand how memory works in computer systems and how to manipulate it to achieve desired results. With C++, I have developed software for a variety of applications, including games and data management systems.
+## 🎮 Game & Software Developer | Programador de Jogos e Softwares
 
-🎓 Currently, I am studying at the College of Digital Games, where I have been exposed to various programming languages, including C#, Lua, and Python. I have also gained experience working with 3D modeling engines and tools like Blender.
+Desenvolvedor de softwares e games com 5 anos de experiência no mercado, possuo experiência em desenvolvimento de jogos 2D e 3D, com foco atual em Realidade Virtual, utilizando Meta Quest 3 com Unity 6.
 
-🔗 By combining my knowledge of programming languages like C#, Lua, and Python with my experience in game development and hardware integration, I have been able to create innovative solutions that bridge the gap between technology and entertainment.
+### 🌟 Destaques da Carreira:
+- 💪 **Liderança no Desenvolvimento de Projetos**:
+  - **Jenny Lusby: Intergalactic Adventures** - Anunciado pela Sinergia Games na Gamescom Latam 2024.
+  - **VITÓRIA DA RESISTÊNCIA: BATALHA DE ITAPARICA DE 1823 EM UM METAVERSO EDUCATIVO** - Um projeto inovador que estará disponível em todas as escolas da rede estadual de ensino do Estado da Bahia.
+  - **Shadow Chronicles Nocturna** - Título a ser lançado em 2025 pela Red District Studios.
+- 🏆 **Reconhecimentos e Premiações**:
+  - Prêmio de **Melhor Artigo** na trilha de Artes e Design do **SBGames 2024**, realizado em Manaus.
+- 📚 **Pesquisa e Desenvolvimento Acadêmico**:
+  - Publicou **mais de 8 trabalhos acadêmicos** nas principais revistas e periódicos do setor no Brasil.
+- 🌍 **Impacto Cultural e Educacional**:
+  - Desenvolvedor das aplicações de games presentes no **Museu Ferroviário de Santa Inês**, através da empresa **MoovInova**, em parceria com a prefeitura da cidade.
+  - Desenvolvimento de um jogo em parceria com o **Projeto Baleia Jubarte**, a maior organização de preservação das jubartes do Brasil.
 
-📚 As a lifelong learner, I am always seeking to expand my knowledge and skills in technology and game development. I believe that by constantly pushing the boundaries of what is possible, I can continue to create impactful and meaningful solutions for a variety of industries and applications.
-
-🌍 Eventually I can make public a sample of what I produce privately for commercial use.
-
+### 🌏 Tecnologias & Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="DarkMathew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DarkMathew-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DarkMathew-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="DarkMathew-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
-  <img align="center" alt="DarkMathew-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"> 
+  <img align="center" alt="DarkMathew-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="DarkMathew-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img align="center" alt="DarkMathew-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="DarkMathew-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">   
-  <img align="center" alt="DarkMathew-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="DarkMathew-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="DarkMathew-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
+  <img align="center" alt="DarkMathew-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="DarkMathew-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="DarkMathew-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
 
-![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)  
+---
+
+🔗 **Portfólio**: [Acesse Aqui](https://www.canva.com/design/DAGDSZPC7Lo/4rhcjoGPwarro2NvRnwv4Q/edit?utm_content=DAGDSZPC7Lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)
+
