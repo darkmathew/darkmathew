@@ -34,7 +34,8 @@ Desenvolvedor de softwares e games com 5 anos de experiência no mercado, possuo
 
 ---
 
+👉 **LinkedIn**: [Acesse Aqui](https://www.linkedin.com/in/matheusaugsantos/)
+
 🔗 **Portfólio**: [Acesse Aqui](https://www.canva.com/design/DAGDSZPC7Lo/4rhcjoGPwarro2NvRnwv4Q/edit?utm_content=DAGDSZPC7Lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)
-
